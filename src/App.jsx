@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import ButtonGradient from "./assets/svg/ButtonGradient";
 import Button from "./components/Button";
 
@@ -12,5 +13,14 @@ const App = () => {
     </>
   );
 };
+=======
+function App() {
+  return (
+    <>
+      <h1 className="text-3xl font-bold underline">Hello world!</h1>
+    </>
+  );
+}
+>>>>>>> c6a687d39b24ee840944710ccbc562446ee7f05d
 
 export default App;
